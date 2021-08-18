@@ -2,6 +2,6 @@
 
 It's a front end order summary component
 
-Language used : HTML 5, CSS3 
+Language used : <strong>HTML 5, CSS3 </strong>
 <br>
-Editor : Visual Studio Code
+Editor : <strong>Visual Studio Code</strong>
