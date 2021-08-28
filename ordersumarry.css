@@ -21,7 +21,7 @@ body {
 .orderSummaryContainer {
     border-radius: 26px;
     background: white;
-    width: 26%;
+    width: 26rem;
     text-align: center;
     margin: 0 auto;
     margin-top: 4%;
@@ -142,52 +142,4 @@ body {
 
 .attribution a {
     color: hsl(228, 45%, 44%);
-}
-
-@media (min-width: 1028px) and (max-width: 1369px) {
-    .orderSummaryContainer {
-        width: 35%;
-    }
-}
-
-@media (min-width: 835px) and (max-width: 1027.68px) {
-    .orderSummaryContainer {
-        width: 41%;
-    }
-}
-
-@media (min-width: 674px) and (max-width: 834.68px) {
-    .orderSummaryContainer {
-        width: 50%;
-    }
-}
-
-@media (min-width: 509px) and (max-width: 673.68px) {
-    .orderSummaryContainer {
-        width: 70%;
-    }
-    .orderSummaryPlanContainer {
-        width: 82%;
-    }
-}
-
-@media (min-width: 362px) and (max-width:508.68px) {
-    .orderSummaryContainer {
-        width: 93%;
-    }
-    .orderSummaryPlanContainer {
-        width: 82%;
-    }
-}
-
-@media (min-width: 320px) and (max-width:361.68px) {
-    .orderSummaryContainer {
-        width: 95%;
-    }
-    .musicIcon {
-        width: 18%;
-    }
-    .orderSummaryPlanContainer {
-        width: 82%;
-    }
 }
